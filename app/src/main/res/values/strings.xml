@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Football Match Schedule</string>
+    <string name="last_match_fragment_title">Last Match</string>
+    <string name="next_match_fragment_title">Next Match</string>
+</resources>
